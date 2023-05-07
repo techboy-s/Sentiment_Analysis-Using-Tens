@@ -1,10 +1,12 @@
-# Text Sentiment Analyzer
+# Text Sentiment Analysis
 
 This is a web application analyzes sentiment from text. I built this using express js and Tensorflow JS and Sentiment Analysis Library.
 
 ## Deployment Link
 
-:point_right: https://text-sentiment-anaylyzer.onrender.com/
+:Link: https://text-sentiment-anaylyzer.onrender.com/
+
+this link is a little bit slow then, you have to be patient.
 
 ## Getting Started
 
